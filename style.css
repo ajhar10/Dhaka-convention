@@ -11,5 +11,34 @@ body{
     background-color: #ffffff;
 }
 
-/* Bannar section  */
+.checked{
+    color: #5243c2;
+    background-color: #edebf8;
+    border-radius: 50%;
+}
+.packages{
+    margin-top: 100px;
+}
+.package-btn{
+    background-color:#fdf4fa;
+     color:#5243c2;
+}
 
+.wedding-plus{
+    border-radius: 30px;
+    background-color: #3F87F5;
+    color: #fff;
+    bottom: 60px;
+    
+        
+    
+}
+
+
+#clients{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#footer{
+   background-color:  #0B0D17;min-height: 200px;
+}
