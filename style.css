@@ -7,8 +7,16 @@ body{
 
 /* Navigation  */
 #navigation{
-    
+    height: 100px;
     background-color: #ffffff;
+}
+/* Bannar  */
+.carousel-img {
+    height: 89vh;
+}
+/* Package section  */
+#package-section{
+    margin-top: 80px;
 }
 
 .checked{
@@ -45,6 +53,60 @@ body{
     width: 90%;
 }
 
-#footer{
-   background-color:  #0B0D17;min-height: 200px;
+
+/* Contact Us Section  */
+
+
+
+#contact{
+    background-image: url("images/contact.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+
+
+    
+}
+
+.icon i{
+    font-size: 20px;
+    background-color: beige;
+    padding: 12px 14px;
+    border-radius: 50%;
+}
+
+.form-control1{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    font-weight: 500;
+}
+.form-container{
+    border-radius: 10px;
+    width: 100%;
+    background-color: #fff;
+    
+}
+
+
+/* Contact Us Section End  */
+
+.footer-section {
+    height: 280px;
+    background: #0B0D17;
+    color: #D9DBE1;
+    overflow: hidden;
+}
+
+.footer-section p {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.footer-section h3 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
 }
