@@ -39,6 +39,12 @@ body{
     margin-top: 100px;
     margin-bottom: 100px;
 }
+
+
+.people-img{
+    width: 90%;
+}
+
 #footer{
    background-color:  #0B0D17;min-height: 200px;
 }
