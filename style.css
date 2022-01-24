@@ -12,11 +12,14 @@ body{
 }
 /* Bannar  */
 .carousel-img {
-    height: 89vh;
+    height: 69vh;
 }
 /* Package section  */
 #package-section{
     margin-top: 80px;
+}
+.package-heading{
+    margin-bottom: 150px;
 }
 
 .checked{
@@ -41,7 +44,7 @@ body{
         
     
 }
-
+/* Client Section  */
 
 #clients{
     margin-top: 100px;
@@ -63,7 +66,8 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-origin: border-box;
-
+    margin-top: 100px;
+    margin-bottom: 100px;
 
     
 }
@@ -93,6 +97,8 @@ body{
 
 /* Contact Us Section End  */
 
+
+/* footer Section  */
 .footer-section {
     height: 280px;
     background: #0B0D17;
